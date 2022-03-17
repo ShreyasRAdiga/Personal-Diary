@@ -1,0 +1,12 @@
+===Database personaldairy
+
+== Table structure for table dairyentry
+
+|------
+|Column|Type|Null|Default
+|------
+|name|text|No|
+|date|varchar(255)|No|
+== Dumping data for table dairyentry
+
+|Hey its my dairy|21.08.2021

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PersonalDairy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PersonalDairy/PersonalDairy/dist/PersonalDairy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
